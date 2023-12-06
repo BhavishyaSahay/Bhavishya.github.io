@@ -1,0 +1,41 @@
+*{
+    font-family: "American Typewriter";
+    margin: 10px;
+}
+body{
+    justify-content: center;
+
+}
+.Hero{
+    position: absolute;
+    margin-top: 20px;
+    right: 200px;
+
+}
+.Hero h1{
+    font-size: 50px;
+    position: absolute;
+    margin-right: 100px;
+    margin-top: 450px;
+}
+
+.About pre{
+    font-size: 30px;
+    position: absolute;
+
+}
+.About h1{
+    margin-left: 640px;
+}
+.portfolio-bar a h1{
+    position: absolute;
+}
+
+.portfolio-bar a h1{
+    font-size: 100px;
+    text-decoration: none;
+    color: black;
+    margin-top: 450px;
+    margin-left: 550px;
+
+}
